@@ -90,7 +90,7 @@ public boolean isAvailable() {
 
 ---
 
-### An automated program that describes intent and and verifies behaviour repeatably.
+### An automated program that describes intent and verifies behaviour repeatably.
 
 ---
 
